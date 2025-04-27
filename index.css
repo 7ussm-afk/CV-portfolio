@@ -86,14 +86,14 @@ h1 {
 .card {
   width: fit-content;
   height: fit-content;
-  background-color: #dedede; /* match background */
+  background-color: #dedede; 
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 25px;
   gap: 20px;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.055);
-  border-radius: 12px; /* optional: a little rounded */
+  border-radius: 12px; 
 }
 
 /* Remove blue outline */
@@ -101,7 +101,7 @@ a:focus {
   outline: none;
 }
 
-/* Your social containers */
+/*social containers */
 .socialContainer {
   width: 52px;
   height: 52px;
@@ -171,15 +171,15 @@ a:focus {
   text-align: right;
 }
 .fullstack-section {
-  background-color: #1a1a1a; /* Dark background */
+  background-color: #1a1a1a; 
   padding: 50px;
   color: white;
   position: relative;
-  font-family: 'Poppins', sans-serif; /* Optional: clean font */
+  font-family: 'Poppins', sans-serif; 
 }
 
 .top-border {
-  border-top: 3px solid #3498db; /* Blue top line */
+  border-top: 3px solid #3498db; 
   margin-bottom: 20px;
 }
 
@@ -208,7 +208,7 @@ a:focus {
   color: #3498db;
   border-color: #3498db;
 }
-/* styles.css */
+
 body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
@@ -453,7 +453,7 @@ h3 {
     text-align: center;
 }
 
-/* hhhhh */
+/* formul */
 .form {
   margin-top: 50px;
   display: flex;
